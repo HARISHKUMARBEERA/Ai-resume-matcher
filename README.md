@@ -2,7 +2,6 @@
 
 A small, practical **NLP project** that compares a resume and job description using **TF-IDF, cosine similarity, and interpretable skill extraction**. Built with Python, scikit-learn, Streamlit, and pypdf. **No API keys or paid services needed.**
 
-> ⚠️ Demo/learning use only. A textual similarity score is **not** a measure of candidate suitability, job qualification, or employability. Do not use this project for automated hiring decisions.
 
 ## Features
 
