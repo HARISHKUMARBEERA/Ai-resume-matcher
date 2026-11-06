@@ -1,0 +1,9 @@
+Full Stack Developer
+
+Developed REST APIs using Python, Flask, and FastAPI.
+Created React and JavaScript frontend components.
+Managed MySQL and PostgreSQL databases.
+Built and deployed Docker containers to AWS EC2.
+Automated CI/CD with GitHub Actions.
+Used Pandas and scikit-learn for basic machine learning experiments.
+Strong experience working with Git and Linux.

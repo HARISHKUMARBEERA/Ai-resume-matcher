@@ -1,0 +1,6 @@
+We are hiring a Python Full Stack Engineer.
+
+Required: Python, FastAPI, React, JavaScript, REST APIs, Docker, AWS,
+PostgreSQL, Git, CI/CD, and Linux.
+Nice to have: Kubernetes, Redis, NLP, and LangChain.
+You will design APIs, build user-facing dashboards, and maintain cloud services.
