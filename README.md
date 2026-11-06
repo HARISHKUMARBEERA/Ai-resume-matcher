@@ -13,10 +13,6 @@ A small, practical **NLP project** that compares a resume and job description us
 - Download a plain-text report
 - Try a built-in example immediately
 
-## Demo screenshot
-
-Run the app locally and add your own screenshot here: `docs/screenshot.png`.
-
 ## Quick start
 
 Requires **Python 3.10+**.
